@@ -4,12 +4,20 @@ ul {
     padding: 0;
   }
 
-li {
-    float: left;
-  }
-  
-  a {
-    display: block;
-    padding: 8px;
-    background-color: #dddddd;
-  }
+header {
+    background-color: azure;
+}
+
+header h1 {
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav {
+    background-color: rgb(203, 251, 253);
+}
+
+nav ul li {
+    display: inline;
+}
