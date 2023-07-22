@@ -1,5 +1,7 @@
 header {
     background-color: azure;
+    display: flex;
+    justify-content: space-between;
 }
 
 header h1 {
@@ -10,6 +12,8 @@ header h1 {
 
 nav {
     background-color: rgb(203, 251, 253);
+    display: inline-block;
+    width: 75%;
 }
 
 nav ul {
