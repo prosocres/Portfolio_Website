@@ -2,7 +2,7 @@
     font-family: Helvetica, sans-serif;
 }
 
-a:link {
+a {
     text-decoration: none;
 }
 
@@ -61,4 +61,13 @@ footer {
 
 footer h2 {
     background-color:seashell;
+}
+
+.interest-box {
+    margin: 10px;
+    width: 200px;
+}
+
+.interest-image {
+    height: 100px;
 }
